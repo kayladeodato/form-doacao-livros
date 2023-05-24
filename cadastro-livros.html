@@ -10,6 +10,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="/assets/fontawesome/css/all.css">
 </head>
 <body>
     <div class="content">
@@ -17,18 +19,35 @@
             <img src="https://cdn.pixabay.com/photo/2013/07/13/12/33/shelf-159852_1280.png" alt="estante-livros">
             <h1><span>Book</span> Form</h1>
         </aside>
+
         <main>
-            <h2>Cadastre seu <span>livros</span> para doação e vejam quais estão sendo <span>doados</span></h2>
+            <header>
+                <a href="index.html" im><img src="/assets/back.png" alt="icone-voltar"></a>
+                <h2>Novo <span>livro</span></h2>  
+            </header>
+
+            <form action="">
+                <label for="input-title">Título</label>
+                <input type="text" id="input-title">
+
+                <label for="input-author">Autor(a)</label>
+                <input type="text" id="input-author">
+
+                <label for="input-gender">Gênero</label>
+                <select type="text" id="input-gender">
+                    <option value="">Selecione uma categoria</option>
+                    <option value="thirller">Thriller</option>
+                    <option value="romance">Romance</option>
+                    <option value="literatura-estrangeira">Literatura Estrangeira</option>
+                    <option value="fantasia">Fantasia</option>
+                </select>
+                
+            </form>
 
             <div class="actions">
-                <a href="">Adicionar um livro para doação</a>
-                <a href="">Ver livros que estão sendo doados</a>
+                <a href="">Cadastrar livro</a>
             </div>
 
-            <footer>
-                <p>Seu livro não se enquadra nas categorias já registradas?</p>
-                <a href="">Registrar nova categoria de livros</a>
-            </footer>
         </main>
 
     </div>
