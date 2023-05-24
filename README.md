@@ -13,6 +13,12 @@ O projeto consiste em um cadastro de livros que deseja colocar para doar, assim 
 🟢 CSS3;
 <br>
 
+## Próximos passos
+- [X] Criação e estilização da página inicial;<br>
+- [X] Criação e estilização da página de cadastro de livros;<br>
+- [ ] Criação e estilização da página de livros doados;<br>
+- [ ] Criação e estilização da página de criação de uma nova categoria;<br>
+
 ## Acesso ao Projeto
 https://kayladeodato.github.io/form-doacao-livros/index.html<br>
 
