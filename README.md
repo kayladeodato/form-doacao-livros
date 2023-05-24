@@ -14,7 +14,7 @@ O projeto consiste em um cadastro de livros que deseja colocar para doar, assim 
 ## Acesso ao Projeto
 
 ## Pessoas Desenvolvedoras do Projeto
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Kayla Deodato</sub>](https://github.com/kayladeodato) 
+| [<img src="https://avatars.githubusercontent.com/" width=115><br><sub>Kayla Deodato</sub>](https://github.com/kayladeodato) 
 | :---: | :---: | :---: |
 
 ## Conclusão
