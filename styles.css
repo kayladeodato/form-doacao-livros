@@ -15,6 +15,7 @@ body {
 }
 
 .content {
+    margin-top: 4rem;
     display: grid;
     grid-template-areas: 
         ". . . . . "
